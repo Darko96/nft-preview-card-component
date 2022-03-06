@@ -156,8 +156,10 @@ main {
   opacity: 1;
 }
 
-/* Viewports between 300px and 500px wide */
-@media only screen and (min-device-width: 375px) and (max-device-width: 500px) {
+@media (max-width: 37.5em) {
+  html {
+    font-size: 62.5%;
+  }
    main {
     height: 100vh;
     display: flex;
