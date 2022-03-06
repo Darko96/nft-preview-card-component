@@ -157,7 +157,7 @@ main {
 }
 
 /* Viewports between 300px and 500px wide */
-@media only screen and (min-device-width: 300px) and (max-device-width: 500px) {
+@media only screen and (min-device-width: 375px) and (max-device-width: 500px) {
    main {
     height: 100vh;
     display: flex;
