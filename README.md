@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Darko96/nft-preview-card-component)
-- Live Site URL: [Add live site URL here](https://darko96.github.io/nft-preview-card-component/)
+- Solution URL: [https://github.com/Darko96/nft-preview-card-component]
+- Live Site URL: [https://darko96.github.io/nft-preview-card-component/]
 
 ## My process
 
