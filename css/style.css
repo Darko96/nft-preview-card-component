@@ -156,7 +156,7 @@ main {
   opacity: 1;
 }
 
-@media (max-width: 37.5em) {
+@media (max-width: 31.2em) {
   html {
     font-size: 62.5%;
   }
