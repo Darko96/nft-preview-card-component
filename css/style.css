@@ -41,13 +41,17 @@ main {
 }
 
 .nft-title {
-  font-size: 2.2rem;
-  font-weight: 600;
-  line-height: 2.77rem;
   margin-bottom: 1.6rem;
   align-self: flex-start;
   color: #fff;
   margin-top: 2.4rem;
+  text-decoration: none;
+}
+
+.nft-title h1 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 2.77rem;
 }
 
 .nft-text {
@@ -124,6 +128,7 @@ main {
 .name {
   margin-left: 5px;
   color: #fff;
+  text-decoration: none;
 }
 
 .name:hover,
@@ -160,13 +165,14 @@ main {
   html {
     font-size: 62.5%;
   }
-   main {
+
+  main {
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  
+
   .nft-card {
     max-width: 32.7rem;
   }
